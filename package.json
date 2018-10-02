@@ -1,0 +1,29 @@
+{
+  "name": "update-shopify-store-locator",
+  "version": "1.0.0",
+  "description": "Grab retail location availability data from a google sheet and update the store locator on a shopify storefront page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveCluster/update-shopify-store-locator.git"
+  },
+  "author": "steven butt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveCluster/update-shopify-store-locator/issues"
+  },
+  "homepage": "https://github.com/steveCluster/update-shopify-store-locator#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "prettier": "^1.14.3"
+  }
+}
